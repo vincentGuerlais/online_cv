@@ -41,6 +41,7 @@ padding: 0px 30px 15px 0px!important;
 	position: absolute;
 	margin-top:  50px;
 	width: 0px;
+	margin-bottom: 150px;
 }
 
 .inner-img-wrapper{
@@ -69,4 +70,11 @@ padding: 0px 30px 15px 0px!important;
 
 .warner{
 	color:#c92424; 
+}
+
+.language {
+	max-height: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
